@@ -2,8 +2,11 @@
 
 
 
-<img height="130em" src="https://github-readme-stats.vercel.app/api?username=nicollekoetzler&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollekoetzler&layout=compact&langs_count=7&theme=dark"/>
+<div>
+  <a href="https://github.com/nicollekoetzler">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=nicollekoetzler&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollekoetzler&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 ### Languages and Tools:
 
