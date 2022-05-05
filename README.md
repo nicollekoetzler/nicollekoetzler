@@ -1,6 +1,9 @@
-### Hi there 👋 I'm Nicolle Koetzler
+### Hello there 👋 ~~General Kenobi~~
+My name is Nicolle, I'm a **FullStack** Software Development student at **Driven Education**, From Brazil!
 
+#### Some facts about me:
 
+- I have nine years of experience in Adobe Photoshop and three in Adobe Illustrator 💻
 
 <div>
   <a href="https://github.com/nicollekoetzler">
