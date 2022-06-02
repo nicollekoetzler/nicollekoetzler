@@ -1,10 +1,12 @@
 ### Hello there 👋 ~~General Kenobi~~
 My name is Nicolle, I'm a **FullStack** Software Development student at **Driven Education**, From Brazil!
+I'm a open minded and creative person, I'm always searching new and better possibilities.
 <br>You can contact me on: nickkoetzler@gmail.com
 
 #### Some facts about me:
 
 - I have nine years of experience in Adobe Photoshop and three in Adobe Illustrator 💻
+- Values are very important to me, so I like to reflect and understand others' point of view before making decisions.
 
 <div>
   <a href="https://github.com/nicollekoetzler">
