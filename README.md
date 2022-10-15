@@ -6,7 +6,8 @@ I'm a open minded and creative person, I'm always searching new and better possi
 #### Some facts about me:
 
 - I have nine years of experience in Adobe Photoshop and three in Adobe Illustrator 💻
-- Values are very important to me, so I like to reflect and understand others' point of view before making decisions.
+- Values are very important to me, so I like to reflect and understand other points of view before making decisions.
+- I speak Portuguese (my native language), English (advanced), and begginer in Japanese.
 
 <div>
   <a href="https://github.com/nicollekoetzler">
