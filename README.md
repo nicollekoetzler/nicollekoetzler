@@ -1,7 +1,9 @@
 ### Hello there 👋 ~~General Kenobi~~
 My name is Nicolle, I'm a **FullStack** Software Development student at **Driven Education**, From Brazil!
 I'm a open minded and creative person, I'm always searching new and better possibilities.
-<br>You can contact me on: nickkoetzler@gmail.com
+
+#### You can contact me on: 
+nickkoetzler@gmail.com
 
 #### Some facts about me:
 
