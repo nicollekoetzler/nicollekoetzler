@@ -28,7 +28,7 @@ nickkoetzler@gmail.com
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="GIT" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="pgAdmin" width="26px" src="https://camo.githubusercontent.com/521b6af10b5409bdfefae1b331c084f5a9daa28290f347e4861fb17e817028f7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f706f737467726573716c2f706f737467726573716c2d706c61696e2e737667" />
+<img align="left" alt="PostgreSQL" width="26px" src="https://camo.githubusercontent.com/521b6af10b5409bdfefae1b331c084f5a9daa28290f347e4861fb17e817028f7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f706f737467726573716c2f706f737467726573716c2d706c61696e2e737667" />
 <img align="left" alt="Photoshop" width="26px" src="https://raw.githubusercontent.com/Gictorbit/photoshopCClinux/master/images/AdobePhotoshop-icon.png" />
 <img align="left" alt="Illustrator" width="26px" src="https://raw.githubusercontent.com/Gictorbit/illustratorCClinux/master/images/AiIcon.png" />
 <img align="left" alt="Figma" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />
