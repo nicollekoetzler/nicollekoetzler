@@ -1,4 +1,4 @@
-## Hello there 👋 ~~General Kenobi~~
+# Hello there 👋 ~~General Kenobi~~
 My name is Nicolle, I'm a **FullStack** Software Development student at **Driven Education**, from Brazil!
 I'm a open minded and creative person, I'm always searching new and better possibilities.
 
