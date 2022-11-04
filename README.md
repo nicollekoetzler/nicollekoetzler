@@ -7,15 +7,11 @@ nickkoetzler@gmail.com
 
 #### Some facts about me:
 
-- I have nine years of experience in Adobe Photoshop and three in Adobe Illustrator 💻
-- Values are very important to me, so I like to reflect and understand other points of view before making decisions.
-- I speak Portuguese (my native language), English (advanced), and begginer in Japanese.
-
-<div>
-  <a href="https://github.com/nicollekoetzler">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=nicollekoetzler&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollekoetzler&layout=compact&langs_count=7&theme=dark"/>
-</div>
+- 📚 I have nine years of experience in Adobe Photoshop and three in Adobe Illustrator 💻
+- 💬 I speak Portuguese (my native language), English (advanced), and I am begginer in Japanese.
+- ✨ Values are very important to me, so I like to reflect and understand other points of view before making decisions.
+- 🎸 I study "Prog" and my biggest hobbie is listening to "Prog". That is to say, I am a Programmer that loves Progressive Rock.
+There's nothing better than coding for hours with a great progressive song!
 
 ### Languages and Tools:
 
