@@ -2,10 +2,7 @@
 My name is Nicolle, I'm a **FullStack** Software Development student at **Driven Education**, from Brazil!
 I'm a open minded and creative person, I'm always searching new and better possibilities.
 
-#### You can contact me on: 
-nickkoetzler@gmail.com
-
-#### Some facts about me:
+### Some facts about me:
 
 - 📚 I have nine years of experience in Adobe Photoshop and three in Adobe Illustrator 💻
 - 💬 I speak Portuguese (my native language), English (advanced), and I am begginer in Japanese.
@@ -13,7 +10,7 @@ nickkoetzler@gmail.com
 - 🎸 I study "Prog" and my biggest hobbie is listening to "Prog". That is to say, I am a Programmer that loves Progressive Rock.
 There's nothing better than coding for hours with a great progressive song!
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
