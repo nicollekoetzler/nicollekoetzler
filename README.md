@@ -7,7 +7,7 @@ I'm a open minded and creative person, I'm always searching new and better possi
 - 📚 I have nine years of experience in Adobe Photoshop and three in Adobe Illustrator 💻
 - 💬 I speak Portuguese (my native language), English (advanced), and I am begginer in Japanese.
 - ✨ Values are very important to me, so I like to reflect and understand other points of view before making decisions.
-- 🎸 I study "Prog" and my biggest hobbie is listening to "Prog". That is to say, I am a Programmer that loves Progressive Rock.
+- 🎸 I study "Prog" and my biggest hobbie is listening to "Prog". That is to say, I'm a Programmer who loves Progressive Rock.
 There's nothing better than coding for hours with a great progressive song!
 
 ## Languages and Tools:
