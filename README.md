@@ -12,4 +12,4 @@
 
 ## Languages and Tools:
 
-<img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,mongodb,postgres,html,css,photoshop,illustrator,figma" /> 
+<img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,nodejs,mongodb,postgres,vercel,html,css,photoshop,illustrator,figma" /> 
