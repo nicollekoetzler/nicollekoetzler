@@ -1,6 +1,5 @@
 # Hello there 👋 ~~General Kenobi~~ 🤖
 <p align="left">My name is Nicolle and I'm a <strong>Front End Developer</strong> and <strong>Full Stack Designer</strong> from Brazil!</p>
-<p align="left">I'm a open minded and creative person</p>
 
 ### Some facts about me:
 <p align="left">
