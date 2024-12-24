@@ -1,5 +1,5 @@
 # Hello there 👋 ~~General Kenobi~~ 🤖
-<p align="left">My name is Nicolle and I'm a <strong>Full Stack Developer</strong> and <strong>Full Stack Designer</strong> from Brazil!</p>
+<p align="left">My name is Nicolle and I'm a <strong>Full Stack Developer</strong> and <strong>Full Stack Designer</strong> from Brazil</p>
 
 ### Some facts about me:
 <p align="left">
